@@ -6,20 +6,16 @@ Professional Software Engineer with a track record in enterprise environments (*
 ---
 
 ### 🇬🇧 The London Chapter
-I recently moved to **London** with a clear purpose: to immerse myself in one of the world's leading tech hubs, push my technical boundaries, and take on complex engineering challenges. I am currently focusing on:
+I recently moved to **London** to immerse myself in a global tech hub and push my technical boundaries. My focus here is on high-level challenges, specifically:
 - **Mastering Blockchain Engineering** (Hyperledger Fabric & Besu).
 - **Evolving Enterprise Architectures** using Spring Boot & Modern Frontend frameworks.
-- **Improving Technical Leadership** within high-stakes, fast-paced environments.
+- **Scaling AI Solutions** through Intelligent Agents.
 
 ---
 
-### 🚀 Quick Summary
-- 🏢 **Professional Experience:** Full Stack Developer & Team Lead at Asseco Spain (Enterprise Solutions).
-- 🎓 **Education:** Master's Candidate in Blockchain Engineering & Bachelor's in Computer Engineering.
-- 🛡️ **Security Mindset:** Specialized Diploma in **Ethical Hacking & Pentesting**.
-- 🛠️ **Core Tech:** Spring Boot, Angular, React, Java, TypeScript.
-
-> 💡 **Note on Activity:** Much of my professional output is hosted on private enterprise platforms (GitLab/Azure DevOps). I use this GitHub space to document my specialized research in **Blockchain** and **AI Agents**.
+### 🚀 Digital Portfolio & Social Presence
+> [!IMPORTANT]
+> **This GitHub profile is dedicated to my social presence and technical research.** > While my professional career has been built on private enterprise platforms (GitLab/Azure DevOps), I use this space to host **Proof of Concepts (POCs)**, experimental builds, and public projects that showcase my current specialization in **Blockchain** and **AI**.
 
 ---
 
@@ -27,11 +23,11 @@ I recently moved to **London** with a clear purpose: to immerse myself in one of
 - **Backend:** Java (Spring Boot/Gateway/Security/Batch), WebFlux, NestJS, Node.js.
 - **Frontend:** Angular (Material), React (Redux/Router), Vue.
 - **Blockchain:** Hyperledger Fabric (Chaincode), Besu, Solidity, Hardhat.
-- **Databases:** Oracle (Liquibase), PostgreSQL, MongoDB, Redis.
+- **Security:** Ethical Hacking & Pentesting (Specialized Diploma).
 
 ---
 
 ### 📫 Connect with me:
 - **LinkedIn:** [linkedin.com/in/jeanpierrefs](https://www.linkedin.com/in/jeanpierrefs)
 - **Location:** London, United Kingdom 🇬🇧
-- **Languages:** Spanish (Native), English (B2+)
+- **Goal:** Solving complex problems through clean code and decentralized tech.
